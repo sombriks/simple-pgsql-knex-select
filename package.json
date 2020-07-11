@@ -1,0 +1,24 @@
+{
+  "name": "simple-pgsql-knex-select",
+  "version": "1.0.0",
+  "description": "using knex to retrieve data from postgresql database using nodejs/knex",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/sombriks/simple-pgsql-knex-select.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/sombriks/simple-pgsql-knex-select/issues"
+  },
+  "homepage": "https://github.com/sombriks/simple-pgsql-knex-select#readme",
+  "dependencies": {
+    "knex": "^0.21.2",
+    "pg": "^8.3.0"
+  }
+}
